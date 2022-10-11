@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leruslerus42
 - 👀 I’m interested in coding: especially OOP->Backend->Java->Spring.
 - 🌱 I’m currently learning C/C++.
-- 💞️ I’m looking to collaborate on interesting projects, like creating interesting apps.
+- 💞️ I’m looking to collaborate on creating interesting apps.
 - 📫 How to reach me: rrajaobe@student.42heilbronn.de
 
 <!---
