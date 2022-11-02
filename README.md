@@ -43,6 +43,11 @@ https://github.com/madushadhanushka/github-readme
 
 2) avoid this badge for now, since I have no pr (pull requests), issues and problem solved.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leruslerus42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+3) IMAGE TO LINK
+  es. 1: [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+  es. 2: [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 --->
 
 
