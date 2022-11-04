@@ -16,7 +16,7 @@ Anyway since I joined in 2021 the Elite Coding School [42](https://42.fr/en/home
 📫 How to reach me: rrajaobe@student.42heilbronn.de
 
 <a href="https://www.linkedin.com/in/aarrajaobelina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ruslan_ruslan_ruslan_29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/andry_antonio_ruslan_29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <img alt="followers" src="https://img.shields.io/github/followers/leruslerus42?label=Followers&style=social">
 
 <img src="https://github-profile-trophy.vercel.app/?username=leruslerus42&theme=juicyfresh&no-bg=true" />
