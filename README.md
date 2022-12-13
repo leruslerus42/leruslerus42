@@ -7,7 +7,10 @@ Anyway since I joined in 2021 the Elite Coding School [42](https://42.fr/en/home
 
 
 ## GOAL
-💞️ The concept I liked the most so far in my coding jouney was <img src="https://miro.medium.com/max/600/1*m8SG-c1f65wgsvu3RxdrTw.png" alt="drawning" width="70"/>. This is the reason why after learning the basis of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="drawning" width="20"/> (check my CPP Modules Repos), my next GOAL is to make of  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" alt="drawning" width="35"/> my core Language, Frameworks <img src="https://repository-images.githubusercontent.com/259018719/0663e880-8a02-11ea-9c75-44ca9a90cc1f" alt="drawning" width="50"/> and <img src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/Spring-BOOT-Interview-questions-1.jpg" alt="drawning" width="50"/>.
+💞️ The concept I liked the most so far in my coding jouney was <img src="https://miro.medium.com/max/600/1*m8SG-c1f65wgsvu3RxdrTw.png" alt="drawning" width="70"/>. 
+I am also get interested in Cybersecurity and I am straiving to specialize myself in this field.
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leruslerus42&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
